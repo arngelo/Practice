@@ -4,3 +4,16 @@
 body{
 background: linear-gradient(to right, #ff00cc, #333399);
 }
+
+
+.landingPictures{
+  box-sizing: inherit;
+  box-shadow: 2px 4px 8px black;
+  width: 550px;
+  height: 300px;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin-right: 10%
+
+}
